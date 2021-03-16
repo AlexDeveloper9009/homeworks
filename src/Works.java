@@ -13,6 +13,7 @@ public class Works {
         else
         {
             System.out.println("число равно " +5);
+            System.out.println("Тест ");
 
         }
     }
